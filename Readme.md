@@ -9,7 +9,7 @@
 
 ---------------------------------------------
 
-<img src="fig/Pipeline.png">
+<img src="Fig/Pipeline.png">
 
 
 ### Our novelties come from three aspects:
