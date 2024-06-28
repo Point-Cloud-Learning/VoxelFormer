@@ -27,7 +27,7 @@
 
 |    ShapeNet    |        | S3DIS  |        |      ModleNet40 |        |
 |:---------------:|:------:|:--------------:|:------:|:------:|:------:|
-|   Ins. mIoU    |  86.7  | mIoU   |  69.5  |      OA(%)      |  93.5  |
+|   Ins. mIoU    |  86.7  | mIoU   |  69.5  |      OA(%)      |  93.6  |
 |   Cat. mIoU     |  83.9  |  OA  |  89.2  |    mAcc(%)     |  91.0  |
 |   Inferences(ms) | 21.670 |  Inferences(ms)  | 81.230 |Inference(ms)  | 24.660 |
 |       Params(M)    | 0.254  |  Params(M)  | 0.316  |Params(M)    | 0.252  |
